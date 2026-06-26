@@ -1,6 +1,6 @@
 # Unit Converter
 
-A simple web app for converting between different units of measurement. Users can input a value, select the units to convert from and to, and view the converted result.
+A simple backend app for converting between different units of measurement. Users can input a value, select the units to convert from and to, and view the converted result.
 
 ## Features
 
